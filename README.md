@@ -12,7 +12,7 @@ Refer https://deweylab.github.io/RSEM/README.html for the same.
 
 ##How to use it?
 
-Your directory should contain a folder named 'fastq' containing all fastq files for samples to be processed (minimum 2 samples).
+Your directory should have a folder named 'fastq' containing all fastq files for samples to be processed (minimum 2 samples).
 fastq files should be named as {sample_id}_[12].fastq.For example, fastq files for paired-end RNA Seq sample 'MYC' should be MYC_1.fastq and MYC_2.fastq.
 
 Prepare a text file (usually named 'exp.txt') with each line containing a sample id. Note: line breaks need to be in Unix.
